@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theme on Troy Tech Tips</title>
-    <link>https://MXJK851.github.io.git/tags/theme/</link>
+    <link>https://MXJK851.github.io/tags/theme/</link>
     <description>Recent content in Theme on Troy Tech Tips</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     
-	<atom:link href="https://MXJK851.github.io.git/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://MXJK851.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>博客测试</title>
-      <link>https://MXJK851.github.io.git/post/hello-world/</link>
+      <link>https://MXJK851.github.io/post/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://MXJK851.github.io.git/post/hello-world/</guid>
+      <guid>https://MXJK851.github.io/post/hello-world/</guid>
       <description>#大家好，这是博客测试。</description>
     </item>
     

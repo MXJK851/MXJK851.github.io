@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Troy Tech Tips</title>
-    <link>https://MXJK851.github.io.git/</link>
+    <link>https://MXJK851.github.io/</link>
     <description>Recent content on Troy Tech Tips</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://MXJK851.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://MXJK851.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>链接</title>
-      <link>https://MXJK851.github.io.git/links/</link>
+      <link>https://MXJK851.github.io/links/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://MXJK851.github.io.git/links/</guid>
+      <guid>https://MXJK851.github.io/links/</guid>
       <description></description>
     </item>
     
     <item>
       <title>关于</title>
-      <link>https://MXJK851.github.io.git/about/</link>
+      <link>https://MXJK851.github.io/about/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://MXJK851.github.io.git/about/</guid>
+      <guid>https://MXJK851.github.io/about/</guid>
       <description>欢迎来到Troy Tech Tips
 一个技术分享平台
 博主为苏州大学2015级硕士，从事有限元传热分析、超材料光学数值计算以及基于机器学习的钙钛矿太阳能电池材料性能预测。
@@ -36,19 +36,19 @@ lycka till</description>
     
     <item>
       <title>UseGit</title>
-      <link>https://MXJK851.github.io.git/post/usegit/</link>
+      <link>https://MXJK851.github.io/post/usegit/</link>
       <pubDate>Wed, 10 Jan 2018 16:05:21 +0800</pubDate>
       
-      <guid>https://MXJK851.github.io.git/post/usegit/</guid>
+      <guid>https://MXJK851.github.io/post/usegit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>博客测试</title>
-      <link>https://MXJK851.github.io.git/post/hello-world/</link>
+      <link>https://MXJK851.github.io/post/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://MXJK851.github.io.git/post/hello-world/</guid>
+      <guid>https://MXJK851.github.io/post/hello-world/</guid>
       <description>#大家好，这是博客测试。</description>
     </item>
     
