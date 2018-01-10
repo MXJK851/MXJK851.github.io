@@ -2,14 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Troy Tech Tips</title>
-    <link>https://MXJK851.github.io/tags/</link>
+    <link>https://MXJK851.github.io.git/tags/</link>
     <description>Recent content in Tags on Troy Tech Tips</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     
-	<atom:link href="https://MXJK851.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://MXJK851.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://MXJK851.github.io.git/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://MXJK851.github.io.git/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://MXJK851.github.io.git/tags/theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://MXJK851.github.io.git/tags/theme/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
