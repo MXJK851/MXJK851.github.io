@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Troy Tech Tips</title>
-    <link>https://MXJK851.github.io/post/</link>
+    <link>https://mxjk851.github.io/post/</link>
     <description>Recent content in Posts on Troy Tech Tips</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Wed, 10 Jan 2018 16:05:21 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://MXJK851.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mxjk851.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>UseGit</title>
-      <link>https://MXJK851.github.io/post/usegit/</link>
-      <pubDate>Wed, 10 Jan 2018 16:05:21 +0800</pubDate>
-      
-      <guid>https://MXJK851.github.io/post/usegit/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>博客测试</title>
-      <link>https://MXJK851.github.io/post/hello-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>使用Hugo和GitHub pages搭建网页（BLOG、NEWS）</title>
+      <link>https://mxjk851.github.io/post/goisforlovers/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://MXJK851.github.io/post/hello-world/</guid>
-      <description>#大家好，这是博客测试。</description>
+      <guid>https://mxjk851.github.io/post/goisforlovers/</guid>
+      <description>&lt;p&gt;Hugo是一种用go语言写成静态网站框架，使用Hugo可以实现个人网站、会议网站、公司网站以及团队网站等各类网站的快速生成，搭配使用GitHub pages则可以优雅地部属生成的网站。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

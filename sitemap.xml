@@ -3,54 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://MXJK851.github.io/links/</loc>
+    <loc>https://mxjk851.github.io/links/</loc>
     <lastmod>2018-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://MXJK851.github.io/about/</loc>
+    <loc>https://mxjk851.github.io/about/</loc>
     <lastmod>2018-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://MXJK851.github.io/post/usegit/</loc>
-    <lastmod>2018-01-10T16:05:21+08:00</lastmod>
+    <loc>https://mxjk851.github.io/post/goisforlovers/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://MXJK851.github.io/categories/</loc>
+    <loc>https://mxjk851.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://MXJK851.github.io/tags/hugo/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://MXJK851.github.io/post/</loc>
-    <lastmod>2018-01-10T16:05:21+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://MXJK851.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://MXJK851.github.io/tags/theme/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://MXJK851.github.io/</loc>
+    <loc>https://mxjk851.github.io/tags/github-pages/</loc>
     <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://MXJK851.github.io/post/hello-world/</loc>
+    <loc>https://mxjk851.github.io/tags/hugo/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mxjk851.github.io/post/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mxjk851.github.io/tags/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mxjk851.github.io/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mxjk851.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mxjk851.github.io/tags/%E7%8B%AC%E7%AB%8B%E5%BB%BA%E7%AB%99/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mxjk851.github.io/tags/%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
